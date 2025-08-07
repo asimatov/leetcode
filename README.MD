@@ -1,0 +1,7 @@
+# LeetCode
+Solutions to problems from leetcode.com.
+
+[1](1). Two Sum  
+[3](3). Longest Substring Without Repeating Characters  
+[5](5). Longest Palindromic Substring  
+[128](128). Longest Consecutive Sequence
