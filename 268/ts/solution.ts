@@ -1,6 +1,6 @@
 export function missingNumber(nums: number[]): number {
     const range = {min: nums[0]?nums[0]:0, max: nums[0]?nums[0]:0}
-    const expected = [];
+    const expected = [0];
 
     for(let i=0; i<nums.length; i++) {
         if(nums[i]<range.min) {
