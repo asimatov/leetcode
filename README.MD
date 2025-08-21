@@ -14,5 +14,6 @@ Solutions to problems from leetcode.com.
 [412](412). Fizz Buzz  
 [417](417). Pacific Atlantic Water Flow  
 [647](647). Palindromic Substrings  
+[876](876). Middle of the Linked List  
 [1480](1480). Running Sum of 1D Array  
 [1672](1672). Richest Customer Wealth  
