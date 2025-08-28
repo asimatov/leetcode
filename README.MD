@@ -8,6 +8,7 @@ Solutions to problems from leetcode.com.
 [15](15). 3Sum  
 [20](20). Valid Parentheses  
 [21](21). Merge Two Sorted Lists  
+[23](23). Merge k Sorted Lists  
 [128](128). Longest Consecutive Sequence  
 [139](139). Word Break  
 [141](141). Linked List Cycle  
